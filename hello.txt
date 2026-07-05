@@ -1,2 +1,3 @@
 learning git
-This line is only one feature-test
+This line is only one feature test
+I am Mia and am testing the feature.
