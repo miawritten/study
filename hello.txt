@@ -2,4 +2,4 @@ learning git
 This line is only one feature test
 I am Mia and am testing the feature.
 Life is a journey.
-Grateful God.
+Today is July 5th.
